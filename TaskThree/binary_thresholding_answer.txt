@@ -1,0 +1,2 @@
+A pixel value of 180 is above the threshold of 150.  
+After binary thresholding, the new pixel value will be 255.
